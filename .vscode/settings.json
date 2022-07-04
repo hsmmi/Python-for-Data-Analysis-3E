@@ -11,6 +11,6 @@
   ],
   "python.formatting.provider": "black",
   "editor.formatOnSave": true,
-  // Enable auto completion for python
+  // Enable tab completion for python
   "python.languageServer": "Pylance",
 }
